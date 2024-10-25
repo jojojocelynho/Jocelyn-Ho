@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('Images/PARIS.jpg');
+    background: url('paris.jpg');
     background-size:cover;
     position:relative;
 }
